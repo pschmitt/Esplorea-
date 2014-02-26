@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="drawer_content">
+        <item>Login</item>
+        <item>Paramètres</item>
+        <item>Changer de guide</item>
+        <item>À propos</item>
+    </array>
+</resources>
